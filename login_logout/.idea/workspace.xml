@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99787412-95d5-4302-a7c8-236854a8018c" name="Default Changelist" comment="" />
+    <list default="true" id="99787412-95d5-4302-a7c8-236854a8018c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop-basic" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-shop-basic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,6 +123,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1cj3IZwDL768mJtrHkLs5HxyJwU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -126,6 +131,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="RunManager">
@@ -146,13 +152,30 @@
       <updated>1591028095490</updated>
       <workItem from="1591028104302" duration="647000" />
       <workItem from="1591044115983" duration="2172000" />
+      <workItem from="1591225465027" duration="365000" />
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1591225799885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591225799886</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1591225779032">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1591225779032" />
     <state x="462" y="106" key="FileChooserDialogImpl" timestamp="1591047149848">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -161,5 +184,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="517" y="283" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1591045112304" />
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2" timestamp="1591225815728">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="93" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1591225815728" />
   </component>
 </project>

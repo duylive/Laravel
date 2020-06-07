@@ -1,7 +1,141 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53fed8e9-7947-43ee-9cdf-8eaed6537e9d" name="Default Changelist" comment="" />
+    <list default="true" id="53fed8e9-7947-43ee-9cdf-8eaed6537e9d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/.idea/laravel_authorization.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/.styleci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Middleware/CheckForMaintenanceMode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Middleware/TrustHosts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/app/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/config/cors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/database/seeds/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/database/seeds/UsersTableSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/views/auth/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/views/auth/passwords/confirm.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/views/auth/passwords/email.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/views/auth/register.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/views/auth/verify.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/views/layouts/page_admin.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/views/layouts/page_guest.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_authorization/webpack.mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/.idea/laravel_security.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/resources/views/auth/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/resources/views/auth/passwords/confirm.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/resources/views/auth/passwords/email.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/resources/views/auth/register.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/resources/views/auth/verify.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../laravel_security/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../login_logout/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-shop-basic" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-shop-basic" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../login_logout/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../login_logout/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +146,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -111,6 +248,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1cHOSJr0QDfqDma9nonvRnQlzqB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -118,6 +256,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -165,6 +304,7 @@
       <workItem from="1591074559385" duration="181000" />
       <workItem from="1591116658286" duration="51000" />
       <workItem from="1591130901083" duration="57000" />
+      <workItem from="1591396587849" duration="1018000" />
     </task>
     <servers />
   </component>
